@@ -1,7 +1,7 @@
 <template>
   <div class="landing">
      
-  <section class="hero bg-babyblue-150 p-[100px] flex-col items-center text-center text-white gap-[18px]">
+  <section class="hero bg-blue-150 p-[100px] flex-col items-center text-center text-white gap-[18px]">
     <h1 class="text-[40px] text-center">hello welcome in sunfloownline shop</h1>
     <p class="text-[28pt] landing-[80pt]">mari mari menghamburkan uang</p>
     <button class="mb-8 mt-[40px] text-[50px] bg-white text-olive-600 py-[40px] py-[10px] rounded-4xl transition duration-150 hover:bg-blue-200 active:scale-95">
