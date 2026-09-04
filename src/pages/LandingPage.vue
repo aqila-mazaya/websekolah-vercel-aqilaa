@@ -2,9 +2,9 @@
   <div class="landing">
      
   <section class="hero bg-indigo-600 p-[100px] flex-col items-center text-center text-white gap-[18px]">
-    <h1 class="text-[62pt] text-center">hello welcome in sunfloownline shop</h1>
+    <h1 class="text-[40px] text-center">hello welcome in sunfloownline shop</h1>
     <p class="text-[28pt] landing-[80pt]">mari mari menghamburkan uang</p>
-    <button class="mb-8 mt-[40px] text-[24pt] bg-white text-indigo-500 py-[40px] py-[10px] rounded-4xl transition duration-150 hover:bg-blue-200 active:scale-95">
+    <button class="mb-8 mt-[40px] text-[50px] bg-white text-olive-500 py-[40px] py-[10px] rounded-4xl transition duration-150 hover:bg-blue-200 active:scale-95">
     <router-link to="/product" class="hero-btn">yukss</router-link>
     </button>
     <center>
